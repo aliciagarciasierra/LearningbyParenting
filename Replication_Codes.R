@@ -3,7 +3,7 @@
 ########################################################
 
 # Author: Alicia García-Sierra
-# Data used: NLS
+# Data used: NLSY and NLSY-CYA
 # Date: November 2023
 
 
